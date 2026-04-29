@@ -6,7 +6,6 @@
   "scripts": {
     "test": "node test.js",
     "run": "node index.js"
-
   },
   "repository": {
     "type": "git",
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gsathvik14/ILP/issues"
   },
-  "homepage": "https://github.com/gsathvik14/ILP#readme"
+  "homepage": "https://github.com/gsathvik14/ILP#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
